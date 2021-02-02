@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\haroon university\4th semester haroon\os\threading\threading\source.cpp(196): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  Threading.vcxproj -> E:\Haroon University\4th Semester Haroon\OS\Threading\Debug\Threading.exe
